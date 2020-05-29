@@ -1,0 +1,9 @@
+numpy
+opencv-python
+scipy
+ipdb
+matplotlib
+opencv-contrib-python
+tensorflow_gpu==1.14.0
+torch
+torchvision
